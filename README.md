@@ -11,6 +11,8 @@ Mata Kuliah : Pemrograman Mobile 1
 
 ## Tugas
 
+![Tugas Fragment menu](https://github.com/rius23/Fragment-Menu/assets/129859832/09f3d028-4af6-4dac-b2ad-121561726767)
+
 
 ## Fill in All The Code in This Project :
 > 1. ***Gradle Script*** => `build.gradle.kts (Module :app)`
